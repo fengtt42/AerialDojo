@@ -1,0 +1,4 @@
+Arvo and Source Sans Pro are open-source fonts distributed by Google Fonts.
+Fonts downloaded from the same Google Fonts stylesheet used by the supplied U2UData+ reference page.
+Arvo: https://fonts.google.com/specimen/Arvo
+Source Sans Pro: https://github.com/adobe-fonts/source-sans
