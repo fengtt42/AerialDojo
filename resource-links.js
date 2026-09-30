@@ -5,5 +5,5 @@ window.AERIALDOJO_LINKS = {
   semanticTask: 'https://huggingface.co/datasets/fengtt42/AerialDojo-200K/tree/main/SemanticOGS',
   dataset: 'https://huggingface.co/datasets/fengtt42/AerialDojo-200K/tree/main/TrajectoryDATA',
   benchmark: 'https://github.com/fengtt42/AerialDojo-200K',
-  leaderboard: 'https://fengtt42.github.io/AerialDojo/'
+  leaderboard: 'https://github.com/fengtt42/AerialDojo'
 };
