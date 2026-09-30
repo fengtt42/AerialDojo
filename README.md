@@ -25,9 +25,9 @@ Images and fonts are bundled locally.
 - `resource-links.js`: official paper, Hugging Face, and GitHub links.
 - `assets/`: figures, scene previews, downloadable figure PDFs, result CSV, and BibTeX.
 
-The Benchmark button links to this repository. The paper PDF and three
-Hugging Face resource URLs are not yet configured; add the official URLs to
-`resource-links.js` when they are available.
+The title area links to the paper, AerialENVS, ImageOGS, SemanticOGS,
+TrajectoryDATA, the benchmark repository, and the project leaderboard.
+Update the official URLs in `resource-links.js` when a destination changes.
 
 GitHub Pages serves the root directory of the `main` branch. `.nojekyll`
 keeps the site as plain static files.
